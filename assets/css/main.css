@@ -407,6 +407,9 @@ hr {
   text-align: right;
 }
 
+.dy {
+  text-indent: 1em;
+}
 /* Form */
 
 form {
