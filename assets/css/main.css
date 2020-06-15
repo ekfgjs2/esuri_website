@@ -821,6 +821,18 @@ input[type="radio"] + label:before {
   width: 70%;
 }
 
+.image2.main {
+  display: flex;
+  margin: 0;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.image2.main img {
+  width: 100%;
+}
+
 @media screen and (max-width: 736px) {
   .image.main {
     margin: 2rem 0;
